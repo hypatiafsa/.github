@@ -4,9 +4,6 @@ about: Use this template for issues that do not fit more specific categories.
 title: "[Other]: Short but descriptive title"
 labels: ["question"]
 ---
-
-## Issue Description
-
 ### Summary
 
 Provide a clear and concise description of your issue.
