@@ -1,0 +1,55 @@
+name: Bug report
+description: Create a bug report for this project.
+title: "[BUG] Short but descriptive title"
+labels: [bug]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Bug Report Guidelines
+        Thank you for taking the time to report a bug!
+        Please fill out the sections below to help us understand the issue.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the Bug
+      description: |
+        Briefly describe the bug you found.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      placeholder: Enter version number or commit hash.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: |
+        Steps to reproduce the behavior:
+        1. Do this '...';
+        2. Do that '...';
+        ...
+        n. Observe the error or misbehavior.
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Expected behavior
+      description: |
+        A clear and concise description of what you expected to happen.
+    validations:
+      required: false
+  - type: textarea
+    id: additional
+    attributes:
+      description: |
+        Provide any extra details, references, or links that might help us
+        understand the problem.
+    validations:
+      required: false
