@@ -3,9 +3,8 @@
 ## Description
 
 Provide a brief summary of the changes in this pull request, including relevant
-motivation and context.
-List any dependencies required for this change.
-If this pull request is related to an already identified issue, link it using
+motivation and context. List any dependencies required for this change. If this
+pull request is related to an already identified issue, please link it using
 `closes #issue-number` or `fixes #issue-number`.
 
 ## Type of change
@@ -34,6 +33,6 @@ Be sure you checked all boxes that apply.
 
 ## Additional Notes
 
-Provide any other relevant information related to this pull request.
-For example, describe the tests you ran to verify your changes and provide
+Provide any other relevant information related to this pull request. As an
+example, describe the tests you ran to verify your changes and provide
 instructions for reviewers to reproduce the changes.

@@ -8,15 +8,15 @@ body:
     attributes:
       value: |
         ### Feature Request Guidelines
-        Thank you for taking the time to propose an improvement!
-        Please fill out the sections below to help us understand your idea.
+        Thank you for taking the time to propose an improvement! Please fill out
+        the sections below to help us understand your idea.
   - type: textarea
     id: description
     attributes:
       label: Description of the Feature
       description: |
-        Clearly describe the feature or improvement you are proposing.
-        What functionality or behavior should be added?
+        Clearly describe the feature or improvement you are proposing. What
+        functionality or behavior should be added?
     validations:
       required: true
   - type: textarea
@@ -24,8 +24,7 @@ body:
     attributes:
       label: Motivation and Use Case
       description: |
-        Explain why this feature is needed.
-        How does it improve the project?
+        Explain why this feature is needed. How does it improve the project?
         Provide specific examples if possible.
     validations:
       required: true
@@ -34,8 +33,8 @@ body:
     attributes:
       label: Alternatives Considered
       description: |
-        Have you thought of different approaches?
-        If so, explain why you chose this one over others.
+        Have you thought of different approaches? If so, explain why you chose
+        this one over others.
     validations:
       required: false
   - type: textarea
