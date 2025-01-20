@@ -7,8 +7,8 @@ body:
     attributes:
       value: |
         ### Bug Report Guidelines
-        Thank you for taking the time to report a bug! Please fill out the
-        sections below to help us understand the issue.
+        Thank you for taking the time to report a bug!
+        Please fill out the sections below to help us understand the issue.
   - type: textarea
     id: description
     attributes:
@@ -21,7 +21,7 @@ body:
     id: version
     attributes:
       label: Version
-      placeholder: Enter version number or commit hash.
+      placeholder: Enter version number, commit hash, or both.
     validations:
       required: true
   - type: textarea
@@ -32,7 +32,6 @@ body:
         Steps to reproduce the behavior:
         1. Do this '...';
         2. Do that '...';
-        ...
         n. Observe the error or misbehavior.
     validations:
       required: true
@@ -41,7 +40,7 @@ body:
     attributes:
       label: Expected behavior
       description: |
-        A clear and concise description of what you expected to happen.
+        A clear and concise description of what you expected.
     validations:
       required: false
   - type: textarea

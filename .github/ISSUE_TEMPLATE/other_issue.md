@@ -11,4 +11,4 @@ Provide a clear and concise description of your issue.
 ### Additional Details
 
 Include any relevant context, references, or links that can help us better
-understand or address the issue.
+understand and address the issue.
