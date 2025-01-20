@@ -35,4 +35,4 @@ Be sure you checked all boxes that apply.
 
 Provide any other relevant information related to this pull request. As an
 example, describe the tests you ran to verify your changes and provide
-instructions for reviewers to reproduce the changes.
+instructions for reviewers to reproduce the outcome.
