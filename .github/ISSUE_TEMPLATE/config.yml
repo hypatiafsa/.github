@@ -1,6 +1,12 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Support Guidelines
+    url: https://github.com/hypatiafsa/.github/blob/master/support.md
+    about: Please read through before asking for support.
+  - name: Contributing Guidelines
+    url: https://github.com/hypatiafsa/.github/blob/master/contributing.md
+    about: Please read through before making contributions.
   - name: General Question
     url: https://github.com/hypatiafsa/
-    about: If you have a general question about the project, please use our
+    about: If you have a more general question about the project, please use our
       discussions forum.
