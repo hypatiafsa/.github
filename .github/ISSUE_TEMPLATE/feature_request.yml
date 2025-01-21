@@ -24,7 +24,7 @@ body:
       label: Motivation and Use Case
       description: |
         Explain why this feature is needed. How does it improve the project?
-        Provide specific examples if possible.
+        Please provide specific examples if possible.
     validations:
       required: true
   - type: textarea
@@ -32,8 +32,8 @@ body:
     attributes:
       label: Alternatives Considered
       description: |
-        Have you thought of different approaches? If so, explain why you chose
-        this one over others.
+        Have you thought of different approaches? If so, please explain why you
+        chose this one over the others.
     validations:
       required: false
   - type: textarea
@@ -42,7 +42,7 @@ body:
       label: Additional Details
       description: |
         Provide any extra details, references, or links that might help us
-        understand your request. (e.g., related issues, external documentation,
-        etc.)
+        understand your request (e.g., related issues, to-do notes, external
+        documentation, etc.).
     validations:
       required: false
