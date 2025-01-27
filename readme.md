@@ -1,6 +1,6 @@
 # HypatiaFSA
 
-Welcome to the HypatiaFSA GitHub organisation!
+Welcome to the HypatiaFSA GitHub Organisation!
 
 This repository serves as the home for the organisation's public profile and
 hosts:
