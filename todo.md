@@ -23,7 +23,7 @@ List of tasks to be completed for the HypatiaFSA Organisation.
 
 ## Low Priority
 
-- [ ] No tasks planned at this time.
+- [ ] Set up a discussion forum.
 
 ## Future Ideas
 
