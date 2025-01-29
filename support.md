@@ -19,7 +19,7 @@ This helps avoid duplicates and keeps the issue tracker clean and organised.
 
 If your issue has not been reported yet:
 
-- Create a new issue in the relevant repository.
+- Create a new issue in the relevant repository and category.
 - Clearly describe your bug or feature request.
   In particular, include:
   - Steps to reproduce the bugs;

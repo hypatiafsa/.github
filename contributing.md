@@ -1,7 +1,7 @@
 # Contributing to Hypatia
 
 Thank you very much for your interest in contributing to Hypatia!
-There are many ways to contribute, and we value and appreciate all of them.
+There are many ways to contribute and we value and appreciate all of them.
 Please, take a moment to read the following guidelines.
 
 ## Expected Behaviour
