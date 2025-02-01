@@ -33,9 +33,9 @@ List of tasks to be completed for the HypatiaFSA Organisation.
 
 - [x] First working website published
       *(Completed on 2024.12.29)*.
-- [x] Setup of private repositories `hypatia` and `hypatia-vscode`
+- [x] Setup of the private repositories `hypatia` and `hypatia-vscode`
       *(Completed on 2024.12.29)*.
-- [x] Setup of public repositories `.github` and `hypatiafsa.github.io`
+- [x] Setup of the public repositories `.github` and `hypatiafsa.github.io`
       *(Completed on 2024.12.29)*.
 - [x] Initial organisation setup
       *(Completed on 2024.12.29)*.
