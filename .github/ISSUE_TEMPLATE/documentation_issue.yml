@@ -1,0 +1,49 @@
+name: Documentation Issue
+description: Report a typo, error, or inconsistency in the documentation.
+title: "[DOCUMENTATION] Short but descriptive title"
+labels: [documentation]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Documentation Issue Guidelines
+        Thank you for taking the time to report an issue with our documentation.
+        Please provide the following details to help us address it effectively.
+  - type: input
+    id: location
+    attributes:
+      label: Location of the Issue
+      description: |
+        Provide the file name, section title, and specific line/column or
+        sentence where the issue occurs.
+      placeholder: "E.g., readme.md; Section Installation; line 123, column 45."
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the Issue
+      description: |
+        Briefly describe the documentation typo, error, or inconsistency you
+        have identified.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Suggested Correction
+      description: |
+        If you have an idea or suggestion for how to fix the issue, please
+        provide it here.
+    validations:
+      required: false
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Details
+      description: |
+        Add any extra details, references, or links that might help us
+        understand the issue (e.g., related issues, to-do notes, external
+        documentation, etc.)
+    validations:
+      required: false
