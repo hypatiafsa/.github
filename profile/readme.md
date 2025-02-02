@@ -10,6 +10,6 @@ In the near future, this organisation will host repositories for:
 
 - The Hypatia language specification and documentation.
 - Software tools for verifying, analysing, and processing Hypatia documents.
-- Additional resources for developers.
+- Additional resources for developers, such as ide plugins.
 
 Stay tuned for updates as we continue building resources for Hypatia!

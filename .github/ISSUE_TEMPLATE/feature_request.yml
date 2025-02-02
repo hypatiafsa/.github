@@ -1,0 +1,48 @@
+name: Feature Request
+description: Suggest an idea for this project.
+title: "[FEATURE] Short but descriptive title"
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Feature Request Guidelines
+        Thank you for taking the time to propose an improvement!
+        Please fill out the sections below to help us understand your idea.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the Feature
+      description: |
+        Clearly describe the feature or improvement you are proposing. What
+        functionality or behavior should be added?
+    validations:
+      required: true
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation and Use Case
+      description: |
+        Explain why this feature is needed. How does it improve the project?
+        Please provide specific examples if possible.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: |
+        Have you thought of different approaches? If so, please explain why you
+        chose this one over the others.
+    validations:
+      required: false
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Details
+      description: |
+        Provide any extra details, references, or links that might help us
+        understand your request (e.g., related issues, to-do notes, external
+        documentation, etc.).
+    validations:
+      required: false
