@@ -24,13 +24,13 @@ Be sure you checked all boxes that apply.
 - [ ] I have read and followed the [Contributing Guidelines](./contributing.md).
 - [ ] I have linked the relevant issue/to-do note (if applicable).
 - [ ] I have updated the changelog and todo documentation files.
-- [ ] My code adheres to the coding style and guidelines of this project.
 - [ ] I have performed a self-review of my own code.
-- [ ] My changes generate no new warnings.
-- [ ] I have commented my code where necessary.
-- [ ] I have added tests where applicable.
+- [ ] I have added tests (where applicable).
+- [ ] I have commented my code (where necessary).
 - [ ] I have updated the documentation as needed.
+- [ ] My changes generate no new warnings.
 - [ ] New and existing unit tests pass locally with my changes.
+- [ ] My code adheres to the coding style and guidelines of this project.
 
 ## Additional Notes
 

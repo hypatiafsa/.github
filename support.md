@@ -2,7 +2,7 @@
 
 Thank you for helping us improve Hypatia and being part of our small community!
 Your feedback is invaluable and we appreciate your contributions.
-All Hypatia projects use **GitHub Issues** to track **documentation errors**,
+All Hypatia projects use **GitHub Issues** to track **documentation issues**,
 **code bugs**, and **feature requests**.
 Please, take a moment to read through the following guidelines.
 
