@@ -21,7 +21,7 @@ List of tasks to be completed for the HypatiaFSA Organisation.
 
 ## Low Priority
 
-- [ ] Set up a discussion forum.
+- [ ] No tasks planned at this time.
 
 ## Future Ideas
 
@@ -29,6 +29,8 @@ List of tasks to be completed for the HypatiaFSA Organisation.
 
 ## Done ✓
 
+- [x] GitHub discussion forum enabled.
+      *(Completed on 2025.02.02)*.
 - [x] First version of community health files
       *(Completed on 2025.02.02)*.
 - [x] First working website published
