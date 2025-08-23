@@ -10,6 +10,8 @@ List of tasks to be completed for the HypatiaFSA Organisation.
   *(Ongoing since 2024.12.29)*.
 - Development of the first complete webpage
   *(Ongoing since 2024.12.29)*.
+- Implementation of **The Hypatia Book**
+  *(Ongoing since 2025.08.22)*.
 
 ## High Priority
 
@@ -29,13 +31,15 @@ List of tasks to be completed for the HypatiaFSA Organisation.
 
 ## Done ✓
 
+- [x] Setup of the private repository `book`
+      *(Completed on 2025.08.22)*.
 - [x] GitHub discussion forum enabled.
       *(Completed on 2025.02.02)*.
 - [x] First version of community health files
       *(Completed on 2025.02.02)*.
 - [x] First working website published
       *(Completed on 2024.12.29 & revised on 2025.02.02)*.
-- [x] Setup of the private repositories `hypatia` and `hypatia-vscode`
+- [x] Setup of the private repositories `hypatia` and `vscode`
       *(Completed on 2024.12.29)*.
 - [x] Setup of the public repositories `.github` and `hypatiafsa.github.io`
       *(Completed on 2024.12.29)*.
