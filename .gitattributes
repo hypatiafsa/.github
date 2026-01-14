@@ -1,0 +1,11 @@
+# Line endings
+* text=auto eol=lf
+
+# Config & Workflow
+*.json text linguist-language=JSON
+*.toml text linguist-language=TOML
+*.yaml text linguist-language=YAML
+*.yml  text linguist-language=YAML
+
+# Textual Documents
+*.md   text diff=markdown linguist-language=Markdown

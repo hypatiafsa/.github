@@ -81,20 +81,25 @@ Offer helpful feedback that moves the project forward.
 
 ### Submitting a pull request
 
-Fork the repository and create a branch for your changes.
+Fork the relevant development branch of the repository or create a new branch
+for your contribution.
 
 - **Write meaningful commit messages:**
 Describe what your commit achieves.
 - **Link to relevant issues:**
 Reference the issue(s) and to-do task(s) your changes address.
 - **Keep changes focused:**
-Avoid bundling unrelated changes in a single pull request.
+Avoid bundling unrelated modifications in a single pull request.
 - **Ensure tests pass:**
 Run all tests to ensure your changes do not break the build.
 - **Use templates:**
 Follow the appropriate [Pull Request Template][pullreqtmp].
 
+For further information about pull requests, please refer to the
+[GitHub Documentation][pullreqdoc].
+
 [pullreqtmp]: ./pull_request_template.md
+[pullreqdoc]: https://docs.github.com/en/pull-requests
 
 ### Submitting an issue
 
