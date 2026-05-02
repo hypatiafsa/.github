@@ -31,6 +31,8 @@ List of tasks to be completed for the HypatiaFSA Organisation.
 
 ## Done ✓
 
+- [x] Setup of the private repositories `hypatia-lean` and `hypatia-rs`
+      *(Completed on 2026.04.26)*.
 - [x] 3rd version of Hypatia-VSCode (v0.0.2)
       *(Done on 2026.02.10)*.
 - [x] 2nd version of Hypatia-VSCode (v0.0.1)
@@ -39,7 +41,7 @@ List of tasks to be completed for the HypatiaFSA Organisation.
       *(Initiated on 2024.12.29 & completed on 2026.01.28)*.
 - [x] Public release of the `vscode` repository
       *(Done on 2026.01.29)*.
-- [x] Setup of the private repository `temprepo` and `book`
+- [x] Setup of the private repositories `temprepo` and `book`
       *(Completed on 2025.08.23)*.
 - [x] GitHub discussion forum enabled.
       *(Done on 2025.02.02)*.
