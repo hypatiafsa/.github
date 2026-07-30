@@ -12,6 +12,8 @@ List of tasks to be completed for the HypatiaFSA Organisation.
   *(Ongoing since 2024.12.29)*.
 - Writing of **The Hypatia Book**
   *(Ongoing since 2025.08.23)*.
+- Implementation of **AML**
+  *(Ongoing since 2026.07.30)*.
 
 ## High Priority
 
@@ -31,6 +33,8 @@ List of tasks to be completed for the HypatiaFSA Organisation.
 
 ## Done ✓
 
+- [x] Setup of the private repository `aml-hs`
+      *(Completed on 2026.07.30)*.
 - [x] Setup of the private repositories `hypatia-lean` and `hypatia-rs`
       *(Completed on 2026.04.26)*.
 - [x] 3rd version of Hypatia-VSCode (v0.0.2)
