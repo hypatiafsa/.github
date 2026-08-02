@@ -33,6 +33,8 @@ List of tasks to be completed for the HypatiaFSA Organisation.
 
 ## Done ✓
 
+- [x] Rename of the privete repository `hypatia` to `hypatia-hs`
+      *(Done on 2026.08.02)*.
 - [x] Setup of the private repository `aml-hs`
       *(Completed on 2026.07.30)*.
 - [x] Setup of the private repositories `hypatia-lean` and `hypatia-rs`
