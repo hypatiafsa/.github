@@ -1,4 +1,4 @@
-# HypatiaFSA Organisation Todo
+# HypatiaFSA Organisation To Do
 
 List of tasks to be completed for the HypatiaFSA Organisation.
 
@@ -8,7 +8,7 @@ List of tasks to be completed for the HypatiaFSA Organisation.
   *(Ongoing since 2024.11.25)*.
 - Implementation of **Hypatia-VSCode**
   *(Ongoing since 2024.12.29)*.
-- Development of the first complete webpage
+- Development of the first complete website
   *(Ongoing since 2024.12.29)*.
 - Writing of **The Hypatia Book**
   *(Ongoing since 2025.08.23)*.
@@ -33,9 +33,15 @@ List of tasks to be completed for the HypatiaFSA Organisation.
 
 ## Done ✓
 
-- [x] Rename of the privete repository `hypatia` to `hypatia-hs`
+- [x] Setup of the private repository `hypatia-language`
+      *(Done on 2026.08.05)*.
+- [x] Setup of the private repository `workspace`
+      *(Done on 2026.08.04)*.
+- [x] Rename of the private repository `book` to `hypatia-book`
+      *(Done on 2026.08.04)*.
+- [x] Rename of the private repository `hypatia` to `hypatia-hs`
       *(Done on 2026.08.02)*.
-- [x] Setup of the private repository `aml-hs`
+- [x] Setup of the private repository `apl-hs`
       *(Completed on 2026.07.30)*.
 - [x] Setup of the private repositories `hypatia-lean` and `hypatia-rs`
       *(Completed on 2026.04.26)*.

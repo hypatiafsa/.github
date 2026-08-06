@@ -1,7 +1,7 @@
 ---
 name: Other Issue
 about: Use this template for issues that do not fit more specific categories.
-title: "[Other]: Short but descriptive title"
+title: "[OTHER] Short but descriptive title"
 labels: ["question"]
 ---
 ### Summary
