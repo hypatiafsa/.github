@@ -33,6 +33,10 @@ List of tasks to be completed for the HypatiaFSA Organisation.
 
 ## Done ✓
 
+- [x] 4th version of Hypatia-VSCode (v0.0.3)
+      *(Done on 2026.08.08)*.
+- [x] Rename of the public repository `vscode` to `companions-vscode`
+      *(Done on 2026.08.08)*.
 - [x] Setup of the private repository `hypatia-language`
       *(Done on 2026.08.05)*.
 - [x] Setup of the private repository `workspace`
