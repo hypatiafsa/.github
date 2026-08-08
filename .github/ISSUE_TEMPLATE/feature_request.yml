@@ -15,7 +15,7 @@ body:
       label: Description of the Feature
       description: |
         Clearly describe the feature or improvement you are proposing. What
-        functionality or behavior should be added?
+        functionality or behaviour should be added?
     validations:
       required: true
   - type: textarea

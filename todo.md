@@ -1,4 +1,4 @@
-# HypatiaFSA Organisation Todo
+# HypatiaFSA Organisation To Do
 
 List of tasks to be completed for the HypatiaFSA Organisation.
 
@@ -8,10 +8,12 @@ List of tasks to be completed for the HypatiaFSA Organisation.
   *(Ongoing since 2024.11.25)*.
 - Implementation of **Hypatia-VSCode**
   *(Ongoing since 2024.12.29)*.
-- Development of the first complete webpage
+- Development of the first complete website
   *(Ongoing since 2024.12.29)*.
 - Writing of **The Hypatia Book**
   *(Ongoing since 2025.08.23)*.
+- Implementation of **APL**
+  *(Ongoing since 2026.07.30)*.
 
 ## High Priority
 
@@ -31,6 +33,22 @@ List of tasks to be completed for the HypatiaFSA Organisation.
 
 ## Done ✓
 
+- [x] 4th version of Hypatia-VSCode (v0.0.3)
+      *(Done on 2026.08.08)*.
+- [x] Rename of the public repository `vscode` to `companions-vscode`
+      *(Done on 2026.08.08)*.
+- [x] Setup of the private repository `hypatia-language`
+      *(Done on 2026.08.05)*.
+- [x] Setup of the private repository `workspace`
+      *(Done on 2026.08.04)*.
+- [x] Rename of the private repository `book` to `hypatia-book`
+      *(Done on 2026.08.04)*.
+- [x] Rename of the private repository `hypatia` to `hypatia-hs`
+      *(Done on 2026.08.02)*.
+- [x] Setup of the private repository `apl-hs`
+      *(Completed on 2026.07.30)*.
+- [x] Setup of the private repositories `hypatia-lean` and `hypatia-rs`
+      *(Completed on 2026.04.26)*.
 - [x] 3rd version of Hypatia-VSCode (v0.0.2)
       *(Done on 2026.02.10)*.
 - [x] 2nd version of Hypatia-VSCode (v0.0.1)
@@ -39,7 +57,7 @@ List of tasks to be completed for the HypatiaFSA Organisation.
       *(Initiated on 2024.12.29 & completed on 2026.01.28)*.
 - [x] Public release of the `vscode` repository
       *(Done on 2026.01.29)*.
-- [x] Setup of the private repository `temprepo` and `book`
+- [x] Setup of the private repositories `temprepo` and `book`
       *(Completed on 2025.08.23)*.
 - [x] GitHub discussion forum enabled.
       *(Done on 2025.02.02)*.

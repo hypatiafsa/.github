@@ -4,7 +4,7 @@ Thank you for helping us improve Hypatia and being part of our small community!
 Your feedback is invaluable and we appreciate your contributions.
 All Hypatia projects use **GitHub Issues** to track **documentation issues**,
 **code bugs**, and **feature requests**.
-Please, take a moment to read through the following guidelines.
+Please take a moment to read through the following guidelines.
 
 ## Guidelines for Filing Issues
 
@@ -25,7 +25,7 @@ If your issue has not been reported yet:
 - Clearly describe your documentation error, code bug, or feature request.
   In particular, include:
   - Location of the error in the documentation;
-  - Steps to reproduce the code bugs;
-  - Use cases or benefits for the new features;
-  - Corrections whenever possible;
+  - Steps to reproduce the bug;
+  - Use cases or benefits of the requested feature;
+  - Suggested corrections, whenever possible;
   - Relevant documents, logs, links, etc.

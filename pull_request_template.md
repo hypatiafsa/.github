@@ -4,8 +4,9 @@
 
 Provide a brief summary of the changes in this pull request, including relevant
 motivation and context. List any dependencies required for this change. If this
-pull request is related to an already identified issue or to-do note, please
-link it using `closes/fixes #issue-number` or `completes #todo-reference`.
+pull request is related to an already identified issue or to-do entry, please
+reference it explicitly, using `#issue-number` for an issue or identifying the
+relevant to-do entry.
 
 ## Type of change
 
@@ -22,8 +23,8 @@ Please check all boxes that apply to the changes you introduced.
 Be sure you checked all boxes that apply.
 
 - [ ] I have read and followed the [Contributing Guidelines](./contributing.md).
-- [ ] I have linked the relevant issue/to-do note (if applicable).
-- [ ] I have updated the changelog and todo documentation files.
+- [ ] I have referenced the relevant issue/to-do entry, if applicable.
+- [ ] I have updated the change log and to do files, where necessary.
 - [ ] I have performed a self-review of my own code.
 - [ ] I have added tests (where applicable).
 - [ ] I have commented my code (where necessary).

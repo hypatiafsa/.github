@@ -66,7 +66,7 @@ Describe what feature or improvement you would like and why.
 - **Discuss use cases:**
 Provide scenarios where your suggestion could be beneficial.
 
-### 5. Giving feedback
+### 5. Giving Feedback
 
 Your perspective matters!
 
@@ -79,10 +79,10 @@ Offer helpful feedback that moves the project forward.
 
 ## Guidelines for Contributors
 
-### Submitting a pull request
+### Submitting a Pull Request
 
-Fork the relevant development branch of the repository or create a new branch
-for your contribution.
+Fork the relevant repository and create a new branch from the appropriate
+development branch.
 
 - **Write meaningful commit messages:**
 Describe what your commit achieves.
@@ -101,7 +101,7 @@ For further information about pull requests, please refer to the
 [pullreqtmp]: ./pull_request_template.md
 [pullreqdoc]: https://docs.github.com/en/pull-requests
 
-### Submitting an issue
+### Submitting an Issue
 
 - **Provide context:**
 Help us understand the problem or idea you are describing.
