@@ -4,15 +4,17 @@ List of tasks to be completed for the HypatiaFSA Organisation.
 
 ## In Progress
 
-- Implementation of **Hypatia**
+- Implementation of **Hypatia (Haskell Version)**
   *(Ongoing since 2024.11.25)*.
 - Implementation of **Hypatia-VSCode**
   *(Ongoing since 2024.12.29)*.
-- Development of the first complete website
+- Development of the website
   *(Ongoing since 2024.12.29)*.
 - Writing of **The Hypatia Book**
   *(Ongoing since 2025.08.23)*.
-- Implementation of **APL**
+- Implementation of **Hypatia (Rust Version)**
+  *(Ongoing since 2026.07.27)*.
+- Implementation of **APL (Haskell Version)**
   *(Ongoing since 2026.07.30)*.
 
 ## High Priority
@@ -33,6 +35,12 @@ List of tasks to be completed for the HypatiaFSA Organisation.
 
 ## Done ✓
 
+- [x] Version v0.0.5 of Hypatia-VSCode
+      *(Done on 2026.09.10)*.
+- [x] Setup of the private repository `latex`
+      *(Done on 2026.08.18)*.
+- [x] Second working website published
+      *(Completed on 2026.08.17 and revised on 2026.09.10)*.
 - [x] 5th version of Hypatia-VSCode (v0.0.4)
       *(Done on 2026.08.14)*.
 - [x] 4th version of Hypatia-VSCode (v0.0.3)
