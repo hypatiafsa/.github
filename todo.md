@@ -37,8 +37,10 @@ List of tasks to be completed for the HypatiaFSA Organisation.
 
 ## Done ✓
 
-- [x] Setup of the private repository `aml-hs`
-      *(Completed on 2026.07.30)*.
+- [x] Rename of the private repository `apl-hs` to `lib-apl-hs`
+      *(Done on 2026.09.16)*.
+- [x] Setup of the private repository `lib-aml-hs`
+      *(Completed on 2026.09.16)*.
 - [x] Version v0.0.5 of Hypatia-VSCode
       *(Done on 2026.09.10)*.
 - [x] Setup of the private repository `latex`
